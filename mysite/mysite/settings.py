@@ -187,5 +187,4 @@ EMAIL_HOST_PASSWORD = 'MamaTkulov777_Usman'   # Пароль SMTP-сервера
 EMAIL_USE_SSL = False   # Установите True, если используете SSL
 DEFAULT_FROM_EMAIL = 'usmanmamatkulov36@gmail.com'
 
-
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
